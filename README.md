@@ -1,6 +1,10 @@
 # Love2D Tutorial
 
-**UNFINISHED VERSION**
+### **UNFINISHED VERSION!!!**
+**WARNING:** CONTAINS MANY TYPOS, AS I DID NOT REVISE IT
+>*(I don't know if I'm going to continue)*
+
+<br><br>
 
 My Love2D tutorial, made by me<br>
 This tutorial don't cover: `Installation` and `Setup`<br>
@@ -68,16 +72,16 @@ When you run this code, you will noticed that the circle is on top-left, because
 The screen is like this graph:
 
 ```
-			^ -Y
-			|
-			|
--X			|             +X
-<-----------|------------->
-			|
-			|
-			|
-			v
-			  Y+
+		^ -Y
+		|
+		|
+-X		|             +X
+<---------------|------------->
+		|
+		|
+		|
+		v
+		  Y+
 ```
 
 So, let's set the player's x and y to 400 and 200 respectivally
